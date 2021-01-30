@@ -9,7 +9,6 @@ st.title('NBA Player Stats Explorer')
 
 st.markdown("""
 This app performs simple webscraping of NBA player stats data!
-* **Python libraries:** base64, pandas, streamlit
 
 """)
 
@@ -44,7 +43,6 @@ st.write('Data Dimension: ' + str(df_selected_team.shape[0]) + ' rows and ' + st
 st.dataframe(df_selected_team)
 
 # Download NBA player stats data
-# https://discuss.streamlit.io/t/how-to-download-file-in-streamlit/1806
 def filedownload(df):
     csv = df.to_csv(index=False)
     b64 = base64.b64encode(csv.encode()).decode()  # strings <-> bytes conversions
@@ -55,7 +53,7 @@ st.markdown(filedownload(df_selected_team), unsafe_allow_html=True)
 
 # Heatmap
 if st.button('Intercorrelation Heatmap'):
-    st.set_option('deprecation.showPyplotGlobalUse', False)
+    st.set_option('deprecation.showPyplotGlobalUse', False) #Disable Warnings
     st.header('Intercorrelation Matrix Heatmap')
     df_selected_team.to_csv('output.csv',index=False)
     df = pd.read_csv('output.csv')
