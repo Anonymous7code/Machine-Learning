@@ -10,7 +10,7 @@ This repo consists of machine learning projects
 
 ## BioInformatics
 <ul>
-      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/ChEMBAL%20Covid%20Drug'><b>ChEMBAL COVID Drug </b></a> project.</li>
+      <li>ChEMBAL<a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/ChEMBAL%20Covid%20Drug'><b> COVID Drug </b></a> project.</li>
 </ul>
 
 ## WebApps
