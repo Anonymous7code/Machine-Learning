@@ -18,4 +18,5 @@ This repo consists of machine learning projects
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Iris'><b>Iris Prediction </b></a> WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Penguin'><b>Penguin Prediction </b></a> WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/BasketBall%20DataExplorer'><b>BasketBall Player </b></a> DataExplorer WebApp project.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Cryptocurrency'><b>CryptoCurrency Price </b></a> DataExplorer WebApp project.</li>
 </ul>
