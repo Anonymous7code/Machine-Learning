@@ -19,14 +19,11 @@ In this implementation, the **Lazypredict** library is used for building several
 # Sidebar - Collects user input features into dataframe
 with st.sidebar.header('1. Upload your CSV data'):
     uploaded_file = st.sidebar.file_uploader("Upload your input CSV file", type=["csv"])
-    st.sidebar.markdown("""
-[Example CSV input file](https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv)
-""")
-
+    
 # Sidebar - Specify parameter settings
 with st.sidebar.header('2. Set Parameters'):
-    split_size = st.sidebar.slider('Data split ratio (% for Training Set)', 10, 90, 80, 5)
-    seed_number = st.sidebar.slider('Set the random seed number', 1, 100, 42, 1)
+    split_size = st.sidebar.slider('Data split ratio (% for Training Set)', 10, 90, 70)
+    seed_number = st.sidebar.slider('Set the random seed number', 1, 100, 40)
 
 # Displays the dataset
 st.subheader('1. Dataset')
