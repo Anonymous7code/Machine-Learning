@@ -2,15 +2,17 @@
 
 This repo consists of machine learning projects 
 
-## Reinforcement Learning
-  <ul>
-      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Reinforcement%20Learning/frozenlake.py'><b>FrozenLake</b></a> project.</li>
-      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Reinforcement%20Learning/cartpole.py'><b>CartPole</b></a> project.</li>
-  </ul>
-
 ## BioInformatics
 <ul>
       <li>ChEMBAL<a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/ChEMBAL%20Covid%20Drug'><b> COVID Drug </b></a> project.</li>
+</ul>
+
+## OpenCv
+<ul>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/FaceMesh.py'><b>FaceMech </b></a> Estimator project.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/HandPose.py'><b>HandPose </b></a> Estimator project.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/FaceAndHandEstimator.py'><b>FaceAndHand </b></a>Estimator project.</li>
+      
 </ul>
 
 ## WebApps
@@ -22,10 +24,12 @@ This repo consists of machine learning projects
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Cryptocurrency'><b>CryptoCurrency Price </b></a>  WebApp project.</li>
 </ul>
 
-## OpenCv
-<ul>
-      <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/FaceMesh.py'><b>FaceMech </b></a> Estimator project.</li>
-      <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/HandPose.py'><b>HandPose </b></a> Estimator project.</li>
-      <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/FaceAndHandEstimator.py'><b>FaceAndHand </b></a>Estimator project.</li>
-      
-</ul>
+## Reinforcement Learning
+  <ul>
+      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Reinforcement%20Learning/frozenlake.py'><b>FrozenLake</b></a> project.</li>
+      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Reinforcement%20Learning/cartpole.py'><b>CartPole</b></a> project.</li>
+  </ul>
+
+
+
+
