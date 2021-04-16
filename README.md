@@ -2,6 +2,8 @@
 
 This repo consists of machine learning projects 
 
+
+### Table Of Contents
 ## BioInformatics
 <ul>
       <li>ChEMBAL<a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/ChEMBAL%20Covid%20Drug'><b> COVID Drug </b></a> project.</li>
