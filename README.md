@@ -8,6 +8,7 @@ This repo consists of machine learning projects
 <ul>
       <li>ChEMBAL<a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/ChEMBAL%20Covid%20Drug'><b> COVID Drug </b></a> project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/DNA%20Sequence'><b> DNA Sequence </b></a> Classification project.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/Pnemonia'><b> Chest X-ray </b></a> Pneumonia Classification </li>
 </ul>
 
 ## OpenCv
