@@ -13,6 +13,7 @@ This repo consists of machine learning projects
 
 ## OpenCv
 <ul>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/Cartoonify'><b>Cartoonify Image </b></a> GUI based.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/FaceMesh.py'><b>FaceMech </b></a> Estimator project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/HandPose.py'><b>HandPose </b></a> Estimator project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/Holistic.py'><b>Holistic </b></a> Estimator project.</li>
