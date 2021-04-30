@@ -4,7 +4,7 @@ import cv2 as cv
 mp_draw = mp.solutions.drawing_utils
 mp_holo = mp.solutions.holistic
 
-video = cv.VideoCapture(1)
+video = cv.VideoCapture(0)
 with mp_holo.Holistic(
     min_detection_confidence=0.5, min_tracking_confidence=0.5
 ) as holistic:
@@ -13,7 +13,7 @@ with mp_holo.Holistic(
         ret, frame = video.read()
 
         #Normalizing coz using droidcam which by default outputs rotated image
-        frame = cv.rotate(frame,cv.cv2.ROTATE_90_CLOCKWISE)
+        # frame = cv.rotate(frame,cv.cv2.ROTATE_90_CLOCKWISE)
 
         #Changing BGR to RGB as mediapipe uses RGB format
         frame = cv.cvtColor(frame, cv.COLOR_BGR2RGB)
