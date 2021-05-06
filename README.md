@@ -11,6 +11,19 @@ This repo consists of machine learning projects
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/Pnemonia'><b> Chest X-ray </b></a> Pneumonia Classification </li>
 </ul>
 
+## Deep Learning
+  <ul>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/Audio%20Classification'><b>Audio Classification</b></a></li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/MNIST'><b>Mnist Classification</b></a> (GUI Based)</li>
+      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Deep%20Learning/Reinforcement%20Learning/cartpole.py'><b>CartPole</b></a> project.</li>
+      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Deep%20Learning/Reinforcement%20Learning/frozenlake.py'><b>FrozenLake</b></a> project.</li>
+  </ul>
+
+## Natural Language Processing(NLP)
+<ul>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/NLP/Spam%20Classifier'><b> Spam </b></a> Classification </li>
+</ul>
+
 ## OpenCv
 <ul>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/Cartoonify'><b>Cartoonify Image </b></a> GUI based.</li>
@@ -31,13 +44,7 @@ This repo consists of machine learning projects
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Cryptocurrency'><b>CryptoCurrency Price </b></a>  WebApp project.</li>
 </ul>
 
-## Deep Learning
-  <ul>
-      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/Audio%20Classification'><b>Audio Classification</b></a></li>
-      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/MNIST'><b>Mnist Classification</b></a> (GUI Based)</li>
-      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Deep%20Learning/Reinforcement%20Learning/cartpole.py'><b>CartPole</b></a> project.</li>
-      <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Deep%20Learning/Reinforcement%20Learning/frozenlake.py'><b>FrozenLake</b></a> project.</li>
-  </ul>
+
 
 
 
