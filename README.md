@@ -1,10 +1,11 @@
 # Machine-Learning
 
-This repo consists of machine learning projects 
-
+This repo consists of machine learning projects
 
 ### Table Of Contents
+
 ## BioInformatics
+
 <ul>
       <li>ChEMBAL<a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/ChEMBAL%20Covid%20Drug'><b> COVID Drug </b></a> project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/DNA%20Sequence'><b> DNA Sequence </b></a> Classification project.</li>
@@ -12,6 +13,7 @@ This repo consists of machine learning projects
 </ul>
 
 ## Deep Learning
+
   <ul>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/Audio%20Classification'><b>Audio Classification</b></a></li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/MNIST'><b>Mnist Classification</b></a> (GUI Based)</li>
@@ -20,11 +22,13 @@ This repo consists of machine learning projects
   </ul>
 
 ## Natural Language Processing(NLP)
+
 <ul>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/NLP/Spam%20Classifier'><b> Spam </b></a> Classification </li>
 </ul>
 
 ## OpenCv
+
 <ul>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/Cartoonify'><b>Cartoonify Image </b></a> GUI based.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/OpenCV/FaceMesh.py'><b>FaceMech </b></a> Estimator project.</li>
@@ -35,6 +39,7 @@ This repo consists of machine learning projects
 </ul>
 
 ## WebApps
+
 <ul>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/AutoML'><b>AutoML </b></a> clone(lite) WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/CarBrand%20Classification'><b>Car Brand </b></a> Classifier WebApp project. (Hosted on heroku)</li>
@@ -43,9 +48,3 @@ This repo consists of machine learning projects
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/BasketBall%20DataExplorer'><b>BasketBall Player </b></a> DataExplorer WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Cryptocurrency'><b>CryptoCurrency Price </b></a>  WebApp project.</li>
 </ul>
-
-
-
-
-
-
