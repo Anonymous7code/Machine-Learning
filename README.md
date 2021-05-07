@@ -25,6 +25,7 @@ This repo consists of machine learning projects
 
 <ul>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/NLP/Spam%20Classifier'><b> Spam </b></a> Classification </li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/NLP/Stock%20Sentiment'><b> Stock Sentiment</b></a> Analysis </li>
 </ul>
 
 ## OpenCv
