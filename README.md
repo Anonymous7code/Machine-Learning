@@ -15,7 +15,7 @@ This repo consists of machine learning projects
 ## Deep Learning
 
   <ul>
-      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/Audio%20Classification'><b>Audio Classification</b></a></li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/Audio%20Classification'><b>Audio Classification</b></a> project</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/Deep%20Learning/MNIST'><b>Mnist Classification</b></a> (GUI Based)</li>
       <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Deep%20Learning/Reinforcement%20Learning/cartpole.py'><b>CartPole</b></a> project.</li>
       <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Deep%20Learning/Reinforcement%20Learning/frozenlake.py'><b>FrozenLake</b></a> project.</li>
