@@ -6,4 +6,3 @@ import time
 import autopy
 
 
-pip install autopy

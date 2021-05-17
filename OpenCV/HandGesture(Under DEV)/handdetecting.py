@@ -1,4 +1,3 @@
-# Importing Libraries
 import cv2
 import mediapipe as mp
 import time
@@ -6,9 +5,7 @@ import math
 
 
 class handDetector():
-
-  # Initializing class
-    def __init__(self, mode=False, maxHands=2, detectionCon=0.5, trackCon=0.5):
+    def __init__(self, mode=False, maxHands=2, detectionCon=0.7, trackCon=0.7):
         self.mode = mode
         self.maxHands = maxHands
         self.detectionCon = detectionCon
@@ -21,18 +18,16 @@ class handDetector():
         self.tipIds = [4, 8, 12, 16, 20]
 
     def findHands(self, img, draw=True):
-      # BGR --> RGB
         imgRGB = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
         self.results = self.hands.process(imgRGB)
         # print(results.multi_hand_landmarks)
-      # Getting Landmarks of detected hand
+
         if self.results.multi_hand_landmarks:
             for handLms in self.results.multi_hand_landmarks:
                 if draw:
                     self.mpDraw.draw_landmarks(img, handLms,
                                                self.mpHands.HAND_CONNECTIONS)
         return img
-   # Finding Hand position
 
     def findPosition(self, img, handNo=0, draw=True):
         xList = []
@@ -58,8 +53,7 @@ class handDetector():
             if draw:
                 cv2.rectangle(img, (bbox[0] - 20, bbox[1] - 20),
                               (bbox[2] + 20, bbox[3] + 20), (0, 255, 0), 2)
-        if len(self.lmList) != 0:
-            print(self.lmList[2])
+
         return self.lmList, bbox
 
     def fingersUp(self):
@@ -98,9 +92,9 @@ def main():
     cap = cv2.VideoCapture(1)
     detector = handDetector()
     while True:
-        success, img = cap.read()
-        img = detector.findHands(img)
-        lmList = detector.findPosition(img)
+        success, frame= cap.read()
+        frame = detector.findHands(frame)
+        lmList = detector.findPosition(frame)
         if len(lmList) != 0:
             print(lmList[4])
 
@@ -108,10 +102,10 @@ def main():
         fps = 1 / (cTime - pTime)
         pTime = cTime
 
-        cv2.putText(img, str(int(fps)), (10, 70), cv2.FONT_HERSHEY_PLAIN, 3,
+        cv2.putText(frame, str(int(fps)), (10, 70), cv2.FONT_HERSHEY_PLAIN, 3,
                     (255, 0, 255), 3)
 
-        cv2.imshow("Image", img)
+        cv2.imshow("Image", frame)
         cv2.waitKey(1)
 
 
