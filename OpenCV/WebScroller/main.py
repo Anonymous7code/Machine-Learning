@@ -3,12 +3,13 @@ import numpy as np
 import pyautogui as pg
 
 cap = cv.VideoCapture(0)
-
+# w= cap.set(3, 1280)
+# h =cap.set(4, 720)
 # Define upper and lower bound for color range
 blue_lower = np.array([100, 150, 0], np.uint8)
 blue_upper = np.array([140, 255, 255], np.uint8)
 
-prev_y=0
+prev_y = 0
 
 while True:
     ret, frame = cap.read()
@@ -28,7 +29,7 @@ while True:
             # cv.drawContours(frame,contours,-1,(0,255,0),2)
             # Drawing rectangle for detected surface
             x, y, w, h = cv.boundingRect(c)
-            cv.rectangle(frame,(x,y),((x+w//2),(y+h//2)),(0,255,0),2)
+            cv.rectangle(frame, (x, y), ((x+w//2), (y+h//2)), (0, 255, 0), 2)
             if y < prev_y:
                 # print('Moving Down')
                 pg.press('space')
