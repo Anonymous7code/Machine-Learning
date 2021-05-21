@@ -31,12 +31,16 @@ This repo consists of machine learning projects
 ## OpenCv
 
 <ul>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/AirCanvas(UnderDev)'><b>AirCanvas(UnderDevelopment) </b></a>-- "Draw on air get on machine"</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/Cartoonify'><b>Cartoonify Image </b></a> GUI based.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/DOCSCANNER(UnderDev)'><b>DocScanner </b></a> </li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/MediaPipe'><b>FaceMech </b></a> Estimator project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/HandGesture'><b>Hand Gesture </b></a> Volume Controller.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/MediaPipe'><b>HandPose </b></a> Estimator project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/MediaPipe'><b>Holistic </b></a> Estimator project.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/Lane%20Detection'><b>LaneDetection</b></a> project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/MediaPipe'><b>FaceAndHand </b></a>Estimator project.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/Spectral%20Invisiblity'><b>Spectral Visiblity</b></a>-- HarryPotter's Cloak</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/OpenCV/WebScroller'><b>Webscroller</b></a> project.</li>
       
 </ul>
