@@ -93,3 +93,11 @@ This repo consists of machine learning projects
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Movie%20Reco'><b>Movie Recommendation </b></a>  WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/CarSP_Prediction'><b>Car Selling Price </b></a>  Prediction WebApp (Deployed On Heroku https://carsppred.herokuapp.com/)</li>
 </ul>
+
+
+
+### Make a Connections
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
