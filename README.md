@@ -38,7 +38,7 @@
 
 This repo consists of machine learning projects
 
-### Table Of Contents
+# Table Of Contents
 
 ## BioInformatics
 
