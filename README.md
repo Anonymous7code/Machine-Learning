@@ -54,5 +54,6 @@ This repo consists of machine learning projects
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Penguin'><b>Penguin Prediction </b></a> WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/BasketBall%20DataExplorer'><b>BasketBall Player </b></a> DataExplorer WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Cryptocurrency'><b>CryptoCurrency Price </b></a>  WebApp project.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Movie%20Reco'><b>Movie Recommendation </b></a>  WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/CarSP_Prediction'><b>Car Selling Price </b></a>  Prediction WebApp (Deployed On Heroku https://carsppred.herokuapp.com/)</li>
 </ul>
