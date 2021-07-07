@@ -47,6 +47,13 @@ This repo consists of machine learning projects
       <li>Gym - <a href='https://github.com/Anonymous7code/Machine-Learning/blob/master/Deep%20Learning/Reinforcement%20Learning/frozenlake.py'><b>FrozenLake</b></a> project.</li>
   </ul>
 
+## Misc
+
+  <ul>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/MIsc/AutoCorrect'><b>AutoCorrect Word</b></a> project</li>
+      
+  </ul>
+
 ## Natural Language Processing(NLP)
 
 <ul>
