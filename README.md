@@ -48,7 +48,7 @@ This repo consists of machine learning projects
 ## Android/iOs Applications
 
 <ul>
-      <li><a href='https://github.com/Anonymous7code/CatDogClassifier'><b> Cat and Dog </b></a> Classification App.</li>
+      <li><a href='https://github.com/Anonymous7code/CatDogClassifier'><b> Cat and Dog </b></a> Classification App (README Available!!).</li>
       
 </ul>
 
