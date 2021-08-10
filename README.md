@@ -1,5 +1,7 @@
 # Machine-Learning
 
+
+
 ### ML Work
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -29,6 +31,24 @@
 This repo consists of machine learning projects
 
 # Table Of Contents
+<ul>
+      <li>Android/iOs Applications</li>
+      <li>BioInformatics</li>
+      <li>Deep Learning</li>
+      <li>Misc</li>
+      <li>Natural Language Processing(NLP)</li>
+      <li>OpenCv</li>
+      <li>WebApps</li>
+
+      
+</ul>
+
+
+
+
+
+
+
 
 ## BioInformatics
 
