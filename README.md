@@ -59,6 +59,8 @@ This repo consists of machine learning projects
       <li>ChEMBAL<a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/ChEMBAL%20Covid%20Drug'><b> COVID Drug </b></a> project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/DNA%20Sequence'><b> DNA Sequence </b></a> Classification project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/BioInformatics/Pnemonia'><b> Chest X-ray </b></a> Pneumonia Classification </li>
+            <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Prognosting%20Diabetes'><b>Diabetes </b></a>  Detection.</li>
+
 </ul>
 
 ## Deep Learning
@@ -111,6 +113,7 @@ This repo consists of machine learning projects
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/BasketBall%20DataExplorer'><b>BasketBall Player </b></a> DataExplorer WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Cryptocurrency'><b>CryptoCurrency Price </b></a>  WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Movie%20Reco'><b>Movie Recommendation </b></a>  WebApp project.</li>
+      <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/Prognosting%20Diabetes'><b>Prognosting Diabetes </b></a>  WebApp project.</li>
       <li><a href='https://github.com/Anonymous7code/Machine-Learning/tree/master/WebApps/CarSP_Prediction'><b>Car Selling Price </b></a>  Prediction WebApp (Deployed On Heroku https://carsppred.herokuapp.com/)</li>
 </ul>
 
