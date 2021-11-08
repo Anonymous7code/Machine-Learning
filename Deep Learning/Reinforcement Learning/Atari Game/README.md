@@ -6,10 +6,6 @@ This is a Gym Atari Environment based project. Here  Asynchronous Advantage Acto
 
 ![IMG](https://github.com/Anonymous7code/Machine-Learning/blob/master/Deep%20Learning/Reinforcement%20Learning/Atari%20Game/ezgif.com-gif-maker.gif)
   
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
   
 ## Tech Stack
 
